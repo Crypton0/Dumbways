@@ -18,7 +18,7 @@ Cara menjalankan program :
 - Buka "CMD" atau "WINDOWS + R"
 - Ketikkan "python nama_prgram.py"
 
-* Cara paling mudah
+Cara tanpa install python :
 - Buka https://www.onlinegdb.com
 - Pada option "Language" di kanan atas, pilih "python"
 - Masukkan code dari file python
