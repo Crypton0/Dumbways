@@ -15,8 +15,8 @@ Cara menjalankan program :
 
 1. Bahasa pemrograman python :
 - Install "python" pada windows
-- Buka "CMD" atau "WINDOWS + R"
-- Ketikkan "python nama_prgram.py"
+- Buka "WINDOWS + R" ketik "CMD", lalu enter
+- Ketikkan "python pathDirectory\nama_prgram.py"
 
  Cara tanpa install python :
 - Buka https://www.onlinegdb.com
