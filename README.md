@@ -29,3 +29,16 @@ Cara menjalankan program :
 - Buka file index.php
 
 
+
+tampilan file segitigaTerbalik.py
+
+Cek Pola : 7
+
+ * * * * * * * * * * * * *
+  * * * * * * * * * * *
+   * * * * * * * * *
+    * * * * * * *
+     * * * * *
+      * * *
+       *
+
