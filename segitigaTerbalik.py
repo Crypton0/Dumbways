@@ -27,6 +27,6 @@ while bar <= x:
 		string = string + " *"  # sebelum simbol diberi spasi agar sama seperti bagian kiri
 		kanan = kanan - 1
 
-	string = string + "\n\n"  # untuk membuat spasi antar baris
+	string = string + "\n"  # untuk membuat spasi antar baris
 	bar = bar + 1
 print (string)
